@@ -24,3 +24,10 @@ Módulos para operação em servidores dedicados do Esquadrão Patetas
 
 ### 476 vFG - Air Weapons Range Objects (14NOV19)
 > https://drive.google.com/file/d/1LyPZfjafx6JT8-z8mr3OUsRAPyElM04B/view?usp=sharing
+
+### MASSUN92´s ASSET PACK for DCS
+> https://massun92.gumroad.com/l/VTreS
+
+
+### High Digit SAMs - A community asset pack for DCS World
+> https://forum.dcs.world/topic/269447-high-digit-sams-a-community-asset-pack-for-dcs-world/
