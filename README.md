@@ -31,3 +31,6 @@ Módulos para operação em servidores dedicados do Esquadrão Patetas
 
 ### High Digit SAMs - A community asset pack for DCS World
 > https://forum.dcs.world/topic/269447-high-digit-sams-a-community-asset-pack-for-dcs-world/
+
+### French Pack 4.9.1
+> https://forum.dcs.world/topic/257437-frenchpack-v491-update-on-27042022/
