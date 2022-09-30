@@ -19,6 +19,11 @@ Módulos para operação em servidores dedicados do Esquadrão Patetas
 > https://github.com/Kinkkujuustovoileipa/uh-60l/releases
 
 
+### Military Aircraft Mod 1.7.1a (MAM)
+> https://www.digitalcombatsimulator.com/en/files/3307071/
+
+### Civil Aircraft Mod
+> https://cam.em-key.de/download-2/
 
 ## TECH
 
